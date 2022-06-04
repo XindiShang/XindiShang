@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XindiShang
-- 👀 I’m interested in Front-End Web Development.
-- 🌱 I’m currently learning React.js and CS50.
-- 💞️ I’m looking to collaborate on App/Software development.
+- 👀 I’m a front-end web developer and a UX designer.
+- 🌱 I’m currently learning TypeScript and React.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: shangxindi@gmail.com
 
 <!---
