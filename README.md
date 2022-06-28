@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XindiShang
 - 👀 I’m a front-end web developer and a UX designer.
-- 🌱 I’m currently learning TypeScript and React.
+- 🌱 I’m currently learning Ethereum, TypeScript, and React.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: shangxindi@gmail.com
 
