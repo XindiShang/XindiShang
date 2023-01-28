@@ -13,3 +13,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xindishang&show_icons=true&locale=en&layout=compact" alt="xindishang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xindishang&" alt="xindishang" /></p>
+
+<img src="https://raw.githubusercontent.com/xindishang/xindishang/blob/output/snake.svg" alt="Snake animation" />
