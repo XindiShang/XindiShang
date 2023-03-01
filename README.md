@@ -17,7 +17,7 @@
 <h3 align="left">Github Stats:</h3>
 <p align="center"><img src="./ezgif.com-video-to-gif.gif" alt="addison's skyline 2022" /></p>
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 1em;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xindishang&show_icons=true&locale=en&layout=compact" alt="xindishang" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xindishang&" alt="xindishang" />
 </div>
