@@ -14,10 +14,15 @@
 
 ---
 
-<h3 align="left">Github Stats:</h3>
-<p align="center"><img src="./ezgif.com-video-to-gif.gif" alt="addison's skyline 2022" /></p>
+<h3 align="left">My Astro Badge:</h3>
+<a href="https://astro.badg.es/contributor/XindiShang/">
+  <img src="https://astro.badg.es/v2/contributor/XindiShang.svg" alt="@XindiShang Astro contributions" width="260" height="156">
+</a>
 
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 1em;">
+<h3 align="left">Github Stats:</h3>
+<img src="./ezgif.com-video-to-gif.gif" alt="addison's skyline 2022" />
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xindishang&show_icons=true&locale=en&layout=compact" alt="xindishang" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xindishang&" alt="xindishang" />
 </div>
